@@ -4,4 +4,7 @@ When boredom struck, I spontaneously crafted a personal website using HTML and C
 
 
 # Output
-<img src="https://github.com/thilaknrai/My-Details-Website/assets/130270049/34da0d3b-a868-468e-8609-af601841ea22" alt="GIF1" width="800">
+<img src="https://github.com/thilaknrai/My-Details-Website/assets/130270049/b123cd94-f8be-4367-a2b8-fcfe332ac8b6" alt="GIF1" width="800">
+
+
+
