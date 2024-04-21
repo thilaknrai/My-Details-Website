@@ -5,5 +5,8 @@ When boredom struck, I spontaneously crafted a personal website using HTML and C
 
 # Output
 
-https://github.com/thilaknrai/My-Details-Website/assets/130270049/35bcc34e-a027-4937-a49f-d8a4c134ecfa
+
+https://github.com/thilaknrai/My-Details-Website/assets/130270049/fd17733c-3c5a-473b-9fa1-498d04154964
+
+
 
